@@ -1,0 +1,76 @@
+{
+	"Departements": [
+		{
+			"Code": "AL",
+			"Nom": "Alibori",
+			"Prefecture": "Kandi",
+			"Superficie": 26242
+		},
+		{
+			"Code": "AK",
+			"Nom": "Atakora",
+			"Prefecture": "Natitingou",
+			"Superficie": 20499
+		},
+		{
+			"Code": "AT",
+			"Nom": "Atlantique",
+			"Prefecture": "Ouidah",
+			"Superficie": 3233
+		},
+		{
+			"Code": "BG",
+			"Nom": "Borgou",
+			"Prefecture": "Parakou",
+			"Superficie": 25856
+		},
+		{
+			"Code": "CL",
+			"Nom": "Collines",
+			"Prefecture": "Savalou",
+			"Superficie": 13931
+		},
+		{
+			"Code": "CF",
+			"Nom": "Couffo",
+			"Prefecture": "Aplahoué",
+			"Superficie": 2404
+		},
+		{
+			"Code": "DG",
+			"Nom": "Donga",
+			"Prefecture": "Djougou",
+			"Superficie": 11126
+		},
+		{
+			"Code": "LT",
+			"Nom": "Littoral",
+			"Prefecture": "Cotonou",
+			"Superficie": 79
+		},
+		{
+			"Code": "MN",
+			"Nom": "Mono",
+			"Prefecture": "Lokossa",
+			"Superficie": 1605
+		},
+		{
+			"Code": "OU",
+			"Nom": "Ouémé",
+			"Prefecture": "Porto-Novo",
+			"Superficie": 1281
+		},
+		{
+			"Code": "PL",
+			"Nom": "Plateau",
+			"Prefecture": "Pobè",
+			"Superficie": 3264
+		},
+		{
+			"Code": "ZO",
+			"Nom": "Zou",
+			"Prefecture": "Abomey",
+			"Superficie": 5243
+		}
+	]
+}

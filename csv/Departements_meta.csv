@@ -1,0 +1,5 @@
+Nom,Description,Type
+Code,Code du département,Texte
+Nom,Nom du département,Texte
+Prefecture,Nom de la préfecture du département,Texte
+Superficie,La superficie du département (en km carrés),Réel

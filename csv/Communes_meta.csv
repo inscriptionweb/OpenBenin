@@ -1,0 +1,3 @@
+Nom,Description,Type
+Departement,"Code du département. Voir le jeu de données [Departements]",Texte
+Nom,Nom de la commune,Texte
