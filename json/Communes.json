@@ -1,4 +1,16 @@
 {
+	"Communes_meta": [
+		{
+			"Nom":"Departement",
+			"Description":"Code du département. Voir le jeu de données [Departements]",
+			"Type":"Texte"
+		},
+		{
+			"Nom":"Nom",
+			"Description":"Nom de la commune",
+			"Type":"Texte"
+		}
+	],
 	"Communes": [
 		{
 			"Departement":"AL",
