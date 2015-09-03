@@ -1,324 +1,324 @@
 {
-	"Communes_meta": [
+	"communes_meta": [
 		{
-			"Nom":"Departement",
-			"Description":"Code du département. Voir le jeu de données [Departements]",
-			"Type":"Texte"
+			"nom":"departement",
+			"description":"Code du département. Voir le jeu de données [Departements]",
+			"type":"string"
 		},
 		{
-			"Nom":"Nom",
-			"Description":"Nom de la commune",
-			"Type":"Texte"
+			"nom":"nom",
+			"description":"Nom de la commune",
+			"type":"string"
 		}
 	],
-	"Communes": [
+	"communes": [
 		{
-			"Departement":"AL",
-			"Nom":"Banikoara"
+			"departement":"AL",
+			"nom":"Banikoara"
 		},
 		{
-			"Departement":"AL",
-			"Nom":"Gogounou"
+			"departement":"AL",
+			"nom":"Gogounou"
 		},
 		{
-			"Departement":"AL",
-			"Nom":"Kandi"
+			"departement":"AL",
+			"nom":"Kandi"
 		},
 		{
-			"Departement":"AL",
-			"Nom":"Karimama"
+			"departement":"AL",
+			"nom":"Karimama"
 		},
 		{
-			"Departement":"AL",
-			"Nom":"Malanville"
+			"departement":"AL",
+			"nom":"Malanville"
 		},
 		{
-			"Departement":"AL",
-			"Nom":"Segbana"
+			"departement":"AL",
+			"nom":"Segbana"
 		},
 		{
-			"Departement":"AK",
-			"Nom":"Boukoumbé"
+			"departement":"AK",
+			"nom":"Boukoumbé"
 		},
 		{
-			"Departement":"AK",
-			"Nom":"Cobly"
+			"departement":"AK",
+			"nom":"Cobly"
 		},
 		{
-			"Departement":"AK",
-			"Nom":"Kérou"
+			"departement":"AK",
+			"nom":"Kérou"
 		},
 		{
-			"Departement":"AK",
-			"Nom":"Kouandé"
+			"departement":"AK",
+			"nom":"Kouandé"
 		},
 		{
-			"Departement":"AK",
-			"Nom":"Matéri"
+			"departement":"AK",
+			"nom":"Matéri"
 		},
 		{
-			"Departement":"AK",
-			"Nom":"Natitingou"
+			"departement":"AK",
+			"nom":"Natitingou"
 		},
 		{
-			"Departement":"AK",
-			"Nom":"Pehonko"
+			"departement":"AK",
+			"nom":"Pehonko"
 		},
 		{
-			"Departement":"AK",
-			"Nom":"Tanguiéta"
+			"departement":"AK",
+			"nom":"Tanguiéta"
 		},
 		{
-			"Departement":"AK",
-			"Nom":"Toucountouna"
+			"departement":"AK",
+			"nom":"Toucountouna"
 		},
 		{
-			"Departement":"AT",
-			"Nom":"Abomey-Calavi"
+			"departement":"AT",
+			"nom":"Abomey-Calavi"
 		},
 		{
-			"Departement":"AT",
-			"Nom":"Allada"
+			"departement":"AT",
+			"nom":"Allada"
 		},
 		{
-			"Departement":"AT",
-			"Nom":"Kpomassè"
+			"departement":"AT",
+			"nom":"Kpomassè"
 		},
 		{
-			"Departement":"AT",
-			"Nom":"Ouidah"
+			"departement":"AT",
+			"nom":"Ouidah"
 		},
 		{
-			"Departement":"AT",
-			"Nom":"Sô-Ava"
+			"departement":"AT",
+			"nom":"Sô-Ava"
 		},
 		{
-			"Departement":"AT",
-			"Nom":"Toffo"
+			"departement":"AT",
+			"nom":"Toffo"
 		},
 		{
-			"Departement":"AT",
-			"Nom":"Tori-Bossito"
+			"departement":"AT",
+			"nom":"Tori-Bossito"
 		},
 		{
-			"Departement":"AT",
-			"Nom":"Zè"
+			"departement":"AT",
+			"nom":"Zè"
 		},
 		{
-			"Departement":"BG",
-			"Nom":"Bembéréké"
+			"departement":"BG",
+			"nom":"Bembéréké"
 		},
 		{
-			"Departement":"BG",
-			"Nom":"Kalalé"
+			"departement":"BG",
+			"nom":"Kalalé"
 		},
 		{
-			"Departement":"BG",
-			"Nom":"N'Dali"
+			"departement":"BG",
+			"nom":"N'Dali"
 		},
 		{
-			"Departement":"BG",
-			"Nom":"Nikki"
+			"departement":"BG",
+			"nom":"Nikki"
 		},
 		{
-			"Departement":"BG",
-			"Nom":"Parakou"
+			"departement":"BG",
+			"nom":"Parakou"
 		},
 		{
-			"Departement":"BG",
-			"Nom":"Pèrèrè"
+			"departement":"BG",
+			"nom":"Pèrèrè"
 		},
 		{
-			"Departement":"BG",
-			"Nom":"Sinendé"
+			"departement":"BG",
+			"nom":"Sinendé"
 		},
 		{
-			"Departement":"BG",
-			"Nom":"Tchaourou"
+			"departement":"BG",
+			"nom":"Tchaourou"
 		},
 		{
-			"Departement":"CL",
-			"Nom":"Bantè"
+			"departement":"CL",
+			"nom":"Bantè"
 		},
 		{
-			"Departement":"CL",
-			"Nom":"Dassa-Zoumè"
+			"departement":"CL",
+			"nom":"Dassa-Zoumè"
 		},
 		{
-			"Departement":"CL",
-			"Nom":"Glazoué"
+			"departement":"CL",
+			"nom":"Glazoué"
 		},
 		{
-			"Departement":"CL",
-			"Nom":"Ouèssè"
+			"departement":"CL",
+			"nom":"Ouèssè"
 		},
 		{
-			"Departement":"CL",
-			"Nom":"Savalou"
+			"departement":"CL",
+			"nom":"Savalou"
 		},
 		{
-			"Departement":"CL",
-			"Nom":"Savè"
+			"departement":"CL",
+			"nom":"Savè"
 		},
 		{
-			"Departement":"CF",
-			"Nom":"Aplahoué"
+			"departement":"CF",
+			"nom":"Aplahoué"
 		},
 		{
-			"Departement":"CF",
-			"Nom":"Djakotomey"
+			"departement":"CF",
+			"nom":"Djakotomey"
 		},
 		{
-			"Departement":"CF",
-			"Nom":"Dogbo-Tota"
+			"departement":"CF",
+			"nom":"Dogbo-Tota"
 		},
 		{
-			"Departement":"CF",
-			"Nom":"Klouékanmè"
+			"departement":"CF",
+			"nom":"Klouékanmè"
 		},
 		{
-			"Departement":"CF",
-			"Nom":"Lalo"
+			"departement":"CF",
+			"nom":"Lalo"
 		},
 		{
-			"Departement":"CF",
-			"Nom":"Toviklin"
+			"departement":"CF",
+			"nom":"Toviklin"
 		},
 		{
-			"Departement":"DG",
-			"Nom":"Bassila"
+			"departement":"DG",
+			"nom":"Bassila"
 		},
 		{
-			"Departement":"DG",
-			"Nom":"Copargo"
+			"departement":"DG",
+			"nom":"Copargo"
 		},
 		{
-			"Departement":"DG",
-			"Nom":"Djougou"
+			"departement":"DG",
+			"nom":"Djougou"
 		},
 		{
-			"Departement":"DG",
-			"Nom":"Ouaké"
+			"departement":"DG",
+			"nom":"Ouaké"
 		},
 		{
-			"Departement":"LT",
-			"Nom":"Cotonou"
+			"departement":"LT",
+			"nom":"Cotonou"
 		},
 		{
-			"Departement":"MN",
-			"Nom":"Athiémé"
+			"departement":"MN",
+			"nom":"Athiémé"
 		},
 		{
-			"Departement":"MN",
-			"Nom":"Bopa"
+			"departement":"MN",
+			"nom":"Bopa"
 		},
 		{
-			"Departement":"MN",
-			"Nom":"Comè"
+			"departement":"MN",
+			"nom":"Comè"
 		},
 		{
-			"Departement":"MN",
-			"Nom":"Grand-Popo"
+			"departement":"MN",
+			"nom":"Grand-Popo"
 		},
 		{
-			"Departement":"MN",
-			"Nom":"Houéyogbé"
+			"departement":"MN",
+			"nom":"Houéyogbé"
 		},
 		{
-			"Departement":"MN",
-			"Nom":"Lokossa"
+			"departement":"MN",
+			"nom":"Lokossa"
 		},
 		{
-			"Departement":"OU",
-			"Nom":"Adjarra"
+			"departement":"OU",
+			"nom":"Adjarra"
 		},
 		{
-			"Departement":"OU",
-			"Nom":"Adjohoun"
+			"departement":"OU",
+			"nom":"Adjohoun"
 		},
 		{
-			"Departement":"OU",
-			"Nom":"Aguégués"
+			"departement":"OU",
+			"nom":"Aguégués"
 		},
 		{
-			"Departement":"OU",
-			"Nom":"Akpro-Missérété"
+			"departement":"OU",
+			"nom":"Akpro-Missérété"
 		},
 		{
-			"Departement":"OU",
-			"Nom":"Avrankou"
+			"departement":"OU",
+			"nom":"Avrankou"
 		},
 		{
-			"Departement":"OU",
-			"Nom":"Bonou"
+			"departement":"OU",
+			"nom":"Bonou"
 		},
 		{
-			"Departement":"OU",
-			"Nom":"Dangbo"
+			"departement":"OU",
+			"nom":"Dangbo"
 		},
 		{
-			"Departement":"OU",
-			"Nom":"Porto-Novo"
+			"departement":"OU",
+			"nom":"Porto-Novo"
 		},
 		{
-			"Departement":"OU",
-			"Nom":"Sèmè-Kpodji"
+			"departement":"OU",
+			"nom":"Sèmè-Kpodji"
 		},
 		{
-			"Departement":"PL",
-			"Nom":"Adja-Ouèrè"
+			"departement":"PL",
+			"nom":"Adja-Ouèrè"
 		},
 		{
-			"Departement":"PL",
-			"Nom":"Ifangni"
+			"departement":"PL",
+			"nom":"Ifangni"
 		},
 		{
-			"Departement":"PL",
-			"Nom":"Kétou"
+			"departement":"PL",
+			"nom":"Kétou"
 		},
 		{
-			"Departement":"PL",
-			"Nom":"Pobè"
+			"departement":"PL",
+			"nom":"Pobè"
 		},
 		{
-			"Departement":"PL",
-			"Nom":"Sakété"
+			"departement":"PL",
+			"nom":"Sakété"
 		},
 		{
-			"Departement":"ZO",
-			"Nom":"Abomey"
+			"departement":"ZO",
+			"nom":"Abomey"
 		},
 		{
-			"Departement":"ZO",
-			"Nom":"Agbangnizoun"
+			"departement":"ZO",
+			"nom":"Agbangnizoun"
 		},
 		{
-			"Departement":"ZO",
-			"Nom":"Bohicon"
+			"departement":"ZO",
+			"nom":"Bohicon"
 		},
 		{
-			"Departement":"ZO",
-			"Nom":"Covè"
+			"departement":"ZO",
+			"nom":"Covè"
 		},
 		{
-			"Departement":"ZO",
-			"Nom":"Djidja"
+			"departement":"ZO",
+			"nom":"Djidja"
 		},
 		{
-			"Departement":"ZO",
-			"Nom":"Ouinhi"
+			"departement":"ZO",
+			"nom":"Ouinhi"
 		},
 		{
-			"Departement":"ZO",
-			"Nom":"Zangnanado"
+			"departement":"ZO",
+			"nom":"Zangnanado"
 		},
 		{
-			"Departement":"ZO",
-			"Nom":"Za-Kpota"
+			"departement":"ZO",
+			"nom":"Za-Kpota"
 		},
 		{
-			"Departement":"ZO",
-			"Nom":"Zogbodomey"
+			"departement":"ZO",
+			"nom":"Zogbodomey"
 		}
 	]
 }

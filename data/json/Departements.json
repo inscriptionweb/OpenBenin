@@ -1,98 +1,98 @@
 {
-	"Departements_meta": [
+	"departements_meta": [
 		{
-			"Nom":"Code",
-			"Description":"Code du département",
-			"Type":"Texte"
+			"nom":"code",
+			"description":"Code du département",
+			"type":"string"
 		},
 		{
-			"Nom":"Nom",
-			"Description":"Nom du département",
-			"Type":"Texte"
+			"nom":"nom",
+			"description":"Nom du département",
+			"type":"string"
 		},
 		{
-			"Nom":"Prefecture",
-			"Description":"Nom de la préfecture du département",
-			"Type":"Texte"
+			"nom":"prefecture",
+			"description":"Nom de la préfecture du département",
+			"type":"string"
 		},
 		{
-			"Nom":"Superficie",
-			"Description":"La superficie du département (en km carrés)",
-			"Type":"Réel"
+			"nom":"superficie",
+			"description":"La superficie du département (en km carrés)",
+			"type":"float"
 		}
 	],
-	"Departements": [
+	"departements": [
 		{
-			"Code": "AL",
-			"Nom": "Alibori",
-			"Prefecture": "Kandi",
-			"Superficie": 26242
+			"code": "AL",
+			"nom": "Alibori",
+			"prefecture": "Kandi",
+			"superficie": 26242
 		},
 		{
-			"Code": "AK",
-			"Nom": "Atakora",
-			"Prefecture": "Natitingou",
-			"Superficie": 20499
+			"code": "AK",
+			"nom": "Atakora",
+			"prefecture": "Natitingou",
+			"superficie": 20499
 		},
 		{
-			"Code": "AT",
-			"Nom": "Atlantique",
-			"Prefecture": "Ouidah",
-			"Superficie": 3233
+			"code": "AT",
+			"nom": "Atlantique",
+			"prefecture": "Ouidah",
+			"superficie": 3233
 		},
 		{
-			"Code": "BG",
-			"Nom": "Borgou",
-			"Prefecture": "Parakou",
-			"Superficie": 25856
+			"code": "BG",
+			"nom": "Borgou",
+			"prefecture": "Parakou",
+			"superficie": 25856
 		},
 		{
-			"Code": "CL",
-			"Nom": "Collines",
-			"Prefecture": "Savalou",
-			"Superficie": 13931
+			"code": "CL",
+			"nom": "Collines",
+			"prefecture": "Savalou",
+			"superficie": 13931
 		},
 		{
-			"Code": "CF",
-			"Nom": "Couffo",
-			"Prefecture": "Aplahoué",
-			"Superficie": 2404
+			"code": "CF",
+			"nom": "Couffo",
+			"prefecture": "Aplahoué",
+			"superficie": 2404
 		},
 		{
-			"Code": "DG",
-			"Nom": "Donga",
-			"Prefecture": "Djougou",
-			"Superficie": 11126
+			"code": "DG",
+			"nom": "Donga",
+			"prefecture": "Djougou",
+			"superficie": 11126
 		},
 		{
-			"Code": "LT",
-			"Nom": "Littoral",
-			"Prefecture": "Cotonou",
-			"Superficie": 79
+			"code": "LT",
+			"nom": "Littoral",
+			"prefecture": "Cotonou",
+			"superficie": 79
 		},
 		{
-			"Code": "MN",
-			"Nom": "Mono",
-			"Prefecture": "Lokossa",
-			"Superficie": 1605
+			"code": "MN",
+			"nom": "Mono",
+			"prefecture": "Lokossa",
+			"superficie": 1605
 		},
 		{
-			"Code": "OU",
-			"Nom": "Ouémé",
-			"Prefecture": "Porto-Novo",
-			"Superficie": 1281
+			"code": "OU",
+			"nom": "Ouémé",
+			"prefecture": "Porto-Novo",
+			"superficie": 1281
 		},
 		{
-			"Code": "PL",
-			"Nom": "Plateau",
-			"Prefecture": "Pobè",
-			"Superficie": 3264
+			"code": "PL",
+			"nom": "Plateau",
+			"prefecture": "Pobè",
+			"superficie": 3264
 		},
 		{
-			"Code": "ZO",
-			"Nom": "Zou",
-			"Prefecture": "Abomey",
-			"Superficie": 5243
+			"code": "ZO",
+			"nom": "Zou",
+			"prefecture": "Abomey",
+			"superficie": 5243
 		}
 	]
 }
